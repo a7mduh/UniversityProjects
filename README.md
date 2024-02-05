@@ -1,2 +1,1 @@
-# UniversityProjects
-Here are all my undergraduate projects that I did during my studies. Some projects are simple, and some are complex. These projects demonstrate my skills in programming in various languages such as Java, Python, Prolog.
+This is a junior year project for the Computer Networks course. This project is about File Transfer Protocol using Stop-and-Wait Protocol.This project needs at least 2 laptops, one for the server and the other for the clients. We used 3-way handshake, and TCP. To understand more about it, please refer to: https://drive.google.com/drive/folders/1RjknSfOfuVAjQjbsvd9F1KB7V-34kWeo
