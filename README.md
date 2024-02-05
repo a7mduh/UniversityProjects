@@ -1,2 +1,1 @@
-# UniversityProjects
-Here are all my undergraduate projects that I did during my studies. Some projects are simple, and some are complex. These projects demonstrate my skills in programming in various languages such as Java, Python, Prolog.
+This is a freshman-year project for the introductory to computer science course. It is the hangman game. For details: https://drive.google.com/drive/folders/13O1TuHWKChybOnjRb06HQC-1gaMaYoms
