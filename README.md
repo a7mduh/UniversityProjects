@@ -1,2 +1,1 @@
-# UniversityProjects
-Here are all my undergraduate projects that I did during my studies. Some projects are simple, and some are complex. These projects demonstrate my skills in programming in various languages such as Java, Python, Prolog.
+This project is a junior year project for the Computer Security course. It is a trojan horse (for education purposes only) that does two things: 1- run a thread in the background and keeps sending sms messages (for a botnet attack). 2- steals the users' photos once permission is granted. Please check for more info https://drive.google.com/drive/folders/1hLouTaR0RvWE6xh7A0SUZuRQzdC8KGue 
