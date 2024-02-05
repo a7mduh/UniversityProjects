@@ -1,2 +1,1 @@
-# UniversityProjects
-Here are all my undergraduate projects that I did during my studies. Some projects are simple, and some are complex. These projects demonstrate my skills in programming in various languages such as Java, Python, Prolog.
+A junior year project for the course Operating Systems. This project is to handle multithreading for a shared bank account. Check this to learn more: https://drive.google.com/drive/folders/1VFP6JSZYh9JNfIOSdwWaVyRB5QFfo1ZQ
