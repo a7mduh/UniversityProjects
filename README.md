@@ -1,2 +1,1 @@
-# UniversityProjects
-Here are all my undergraduate projects that I did during my studies. Some projects are simple, and some are complex. These projects demonstrate my skills in programming in various languages such as Java, Python, Prolog.
+This is a senior-year project for the Database Systems course. This project is split into two tasks, the first task is about creating a database and then writing SQL queries to retrieve the required data. The second task was about solving more complex SQL queries for a given database. For more details, check: https://drive.google.com/drive/folders/1SVa1Jrdz_HEe6v0IigImcoCaQl19pQEI
