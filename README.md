@@ -1,2 +1,1 @@
-# UniversityProjects
-Here are all my undergraduate projects that I did during my studies. Some projects are simple, and some are complex. These projects demonstrate my skills in programming in various languages such as Java, Python, Prolog.
+This is a junior year project for the Concepts of Programming Languages course. This project's aim is to distinguish among different programming paradigms: imperative, logical, and functional programming. We used Java for the imperative part, Python for the functioanl part, and prolog for the logical part. Report link: https://drive.google.com/drive/folders/12niL-LRcHgsoG1HkcS8HJk2ujhOaJQZW
