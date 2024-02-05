@@ -1,2 +1,1 @@
-# UniversityProjects
-Here are all my undergraduate projects that I did during my studies. Some projects are simple, and some are complex. These projects demonstrate my skills in programming in various languages such as Java, Python, Prolog.
+This is a senior year project for the Intro to Machine Learning course. It solves a binary classification problem for whether an individual has diabetes or not, based on health indicators. Visit this for more info: https://drive.google.com/drive/folders/1xH1JDvFpbBsfxkGiGhY0mVPupPHna1CO
