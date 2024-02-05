@@ -1,2 +1,1 @@
-# UniversityProjects
-Here are all my undergraduate projects that I did during my studies. Some projects are simple, and some are complex. These projects demonstrate my skills in programming in various languages such as Java, Python, Prolog.
+This project is a senior year project for the Parallel and Distributed Computing course. This project uses the Message Passing Interface framework to run the merge sort algorithm parallelly between multiple computers(server and clients). MPI is a framework for parallel computing. I used Linux VMs to run it. Please check the project report to understand how to run it: https://drive.google.com/drive/folders/1hHcmZ2Yw4T3cP2z5Lg4xQZpxAn-Jg6dB
